@@ -1,4 +1,4 @@
-![Header](header.png)
+![Header](header.jpg)
 <h1 align="center">Hi 👋, I'm Grace</h1>
 
 <!--
