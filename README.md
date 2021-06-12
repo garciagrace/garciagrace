@@ -1,4 +1,5 @@
-### Hi there 👋
+![Header](header.png)
+<h1 align="center">Hi 👋, I'm Grace</h1>
 
 <!--
 **garciagrace/garciagrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
