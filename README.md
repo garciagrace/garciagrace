@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for opportunities
 - 🎓 A graduate with a bachelor's degree in Computer Science
-- 🌱 I’m currently learning Java and enchancing my knowledge on MERN Stack
+- 🌱 I’m currently learning Java and enhancing my knowledge on MERN Stack
 - 📫 Reach me by [Email](mailto:gracegarcia0803@gmail.com?subject=Hello%20from%20your%20GitHub%20profile!), on [LinkedIn](https://www.linkedin.com/in/gracegarcia08/), or on [Twitter](https://twitter.com/__gracegarcia)
 - 👯 I’m looking to collaborate on open source projects
 - ⚡ Aside from software development, some of my interests are photography, games, virtual challenge, and learning new skills
