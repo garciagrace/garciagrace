@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-### Check out [GraceGarcia.me](http://gracegarcia.me) to assess my webdev skills and learn more about me.
+### Check out [GraceGarcia]([http://gracegarcia.me](https://gracegarcia.vercel.app/)) to assess my webdev skills and learn more about me.
 
 <br >
 
